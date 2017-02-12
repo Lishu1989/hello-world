@@ -1,2 +1,3 @@
 # hello-world
-New here, know less than Jon Snow.
+Hi Human!
+I'm new here, and I know less than Jon Snow.
